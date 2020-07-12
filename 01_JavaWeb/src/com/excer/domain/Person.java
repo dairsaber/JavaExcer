@@ -35,4 +35,7 @@ public class Person {
                 ", age=" + age +
                 '}';
     }
+    public void eat(){
+        System.out.println("I am eating ...");
+    }
 }
